@@ -10,7 +10,7 @@ A flashcard app that allows the user to study terms and definition
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://imgur.com/VoiHrQt" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
