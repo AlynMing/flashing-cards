@@ -3,28 +3,6 @@ Flashcard App Beta
 
 ## Flashcard Application
 
-## Lab 1
-
-### App Description
-A flashcard app that allows the user to study terms and definition
-
-### App Walk-though
-
-<img src="https://i.imgur.com/VoiHrQt.gif" width=200><br>
-
-## Required
-- [x] Create New Project in Android Studio
-- [x] Add a view for the front side of the flashcard to display the question
-- [x] Add a view for the back side of the flashcard to display the answer
-- [x] Build in logic to show the answer side when the card is tapped
-- [x] Push code to GitHub
-## Optional
-- [x] toggle the flashcard between the question side and the answer side
-- [x] Style the question and answer side of the card to better distinguish between the two sides
-- [x] Add selectable multiple choice answers beneath the card
-- [x] Change the background color of the multiple choice answers when clicked to indicate whether the question was answered correctly
-- [ ] Further customize and style the card
-
 ## Lab 2
 
 ### App Walk-though
@@ -45,35 +23,3 @@ A flashcard app that allows the user to study terms and definition
 - [ ] User can also enter multiple choice answers when creating a card
 - [ ] App is further styled and customized!
 
-## Lab 3
-
-### App Walk-though
-<img src="https://i.imgur.com/vgoMbfS.gif" width=200><br>
-
-
-## Required
-- [x] User can create a card and still see their created card when the app is relaunched.
-- [x] User can create muliple cards and browse through all created cards
-
-## Optional
-- [ ] User can delete a card and no longer see it in their deck anymore
-- [ ] Flashcards are shown in random order instead of the order they were created in
-- [ ] User can edit a card and see the edit saved when they browse through their deck of cards
-- [ ] User can create flashcards with multiple answers and be able to browse through cards with multiple choice answers shown
-
-## Lab 4
-
-### App Walk-though
-
-<img src="https://i.imgur.com/cAbfz3f.gif" width=200><br>
-
-## Required
-- [x] User sees a transition animation when going from the main screen to the add card screen.
-- [x] User sees a reveal animation when the flashcard is tapped and the answer is shown
-- [x] User sees flashcards animating in / out when the 'next' button is tapped
-
-## Optional
-- [ ] Extra styling is added!
-- [ ] User sees a countdown timer for each question
-- [ ] User sees a 'card flip' animation when the card is tapped
-- [ ] User sees a celebration animation with confetti when they answer a question correctly
